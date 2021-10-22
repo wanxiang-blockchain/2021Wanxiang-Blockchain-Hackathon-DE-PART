@@ -3,31 +3,31 @@
 
 # Introduction and Theory
 
-![1](assets/1.png)
+![1](goRecrypt/assets/1.png)
 
 ## Prerequisites
 
-![2](assets/2.png)
+![2](goRecrypt/assets/2.png)
 
 ## Encrypt
 
-![3](assets/3.png)
+![3](goRecrypt/assets/3.png)
 
 ## ReKeyGen
 
-![4](assets/4.png)
+![4](goRecrypt/assets/4.png)
 
 ## ReEncryption
 
-![5](assets/5.png)
+![5](goRecrypt/assets/5.png)
 
 ## ReCreateKey
 
-![6](assets/6.png)
+![6](goRecrypt/assets/6.png)
 
 ## Decrypt
 
-![7](assets/7.png)
+![7](goRecrypt/assets/7.png)
 
 # Getting started
 
