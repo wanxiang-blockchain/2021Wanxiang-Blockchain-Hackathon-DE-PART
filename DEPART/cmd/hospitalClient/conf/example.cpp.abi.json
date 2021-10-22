@@ -1,0 +1,72 @@
+[
+    {
+        "name": "init",
+        "inputs": [],
+        "outputs": [],
+        "constant": "false",
+        "type": "function"
+    },
+    {
+        "name": "setEvidence",
+        "inputs": [
+            {
+                "name": "key",
+                "type": "string"
+            },
+            {
+                "name": "msg",
+                "type": "string"
+            }
+        ],
+        "outputs": [],
+        "constant": "false",
+        "type": "function"
+    },
+    {
+        "name": "deleteEvidence",
+        "inputs": [
+            {
+                "name": "key",
+                "type": "string"
+            }
+        ],
+        "outputs": [],
+        "constant": "false",
+        "type": "function"
+    },
+    {
+        "name": "getEvidence",
+        "inputs": [
+            {
+                "name": "key",
+                "type": "string"
+            }
+        ],
+        "outputs": [
+            {
+                "name": "",
+                "type": "string"
+            }
+        ],
+        "constant": "true",
+        "type": "function"
+    },
+    {
+        "name": "setName",
+        "inputs": [
+            {
+                "type": "string"
+            }
+        ],
+        "type": "event"
+    },
+    {
+        "name": "init",
+        "inputs": [
+            {
+                "type": "string"
+            }
+        ],
+        "type": "event"
+    }
+]

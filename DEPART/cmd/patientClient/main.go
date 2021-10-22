@@ -1,15 +1,16 @@
 package main
 
 import (
+	"DEPART/goRecrypt/curve"
+	"DEPART/goRecrypt/recrypt"
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/urfave/cli"
-	"goRecrypt/curve"
-	"goRecrypt/recrypt"
 	"os"
+
+	"gopkg.in/urfave/cli.v1"
 )
 
 var (
